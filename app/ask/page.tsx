@@ -139,12 +139,12 @@ export default function AskPage() {
                   <h3 className="mb-4 font-semibold text-lg">Welcome! How can I help you today?</h3>
                   <div className="gap-4 grid md:grid-cols-2 text-muted-foreground text-sm">
                     <div className="space-y-2">
-                      <p>• "Am I eligible for a UK work visa?"</p>
-                      <p>• "What documents do I need for Canadian PR?"</p>
+                      <p>• &apos;Am I eligible for a UK work visa?&apos;</p>
+                      <p>• &apos;What documents do I need for Canadian PR?&apos;</p>
                     </div>
                     <div className="space-y-2">
-                      <p>• "How long does US visa processing take?"</p>
-                      <p>• "Can I bring my family on a student visa?"</p>
+                      <p>• &apos;How long does US visa processing take?&apos;</p>
+                      <p>• &apos;Can I bring my family on a student visa?&apos;</p>
                     </div>
                   </div>
                 </div>
